@@ -151,7 +151,7 @@ Las credenciales reales no deben subirse al repositorio.
 Clona el repositorio:
 
 ```bash
-git clone https://github.com/Nico3246/ProyectoGimnasio.git
+git clone https://github.com/Nico3246/DDSI-Gestion-Gimnasio.git
 cd ProyectoGimnasio
 ```
 
