@@ -191,10 +191,4 @@ Las dependencias están definidas en `pom.xml`:
 - `mariadb-java-client 3.5.5`;
 - `jcalendar 1.4`.
 
-## Estado del proyecto
 
-Este repositorio contiene la **versión final de la práctica**, incluyendo una implementación más completa de los controladores, DAOs, tablas y formularios gráficos utilizados durante su desarrollo.
-
-## Autor
-
-Repositorio mantenido por [Nico3246](https://github.com/Nico3246).
